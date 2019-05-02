@@ -1,0 +1,2 @@
+// Cumualtive targeted staking plan
+
